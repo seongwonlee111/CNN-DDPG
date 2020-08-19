@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/myounghoe/ddpgtf/norepeat_target_2action_scale2/weights/critic/model.ckpt"
+all_model_checkpoint_paths: "/home/myounghoe/ddpgtf/norepeat_target_2action_scale2/weights/critic/model.ckpt"
